@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "869508202761",
+    "firebase_url": "https://meditation-app-34538.firebaseio.com",
+    "project_id": "meditation-app-34538",
+    "storage_bucket": "meditation-app-34538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869508202761:android:844faaa5760e81b27113d8",
+        "android_client_info": {
+          "package_name": "com.innerwonders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869508202761-k7v3hefgo56log8bgifgbdc1paemd3sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innerwonders",
+            "certificate_hash": "86aa0a7199b862ce8be09bebebdae5d82933d127"
+          }
+        },
+        {
+          "client_id": "869508202761-rb38ick3n7jdj0em6i1orbvon5b5aner.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innerwonders",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "869508202761-ff8droed1hm7m01tjuuqs0d7g01kil49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMuNIALYhp8NuX94wYyx0VlLNohT4e2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869508202761-ff8droed1hm7m01tjuuqs0d7g01kil49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869508202761-etc5cjpv3f45j7lnot817n0ugpkvdrgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Innerwonders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
